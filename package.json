@@ -10,7 +10,11 @@
     "url": "git://github.com/styleremains/rebelle-k8s.git"
   },
   "dependencies": {
-    "colors": "^1.1.2",
-    "request": "^2.81.0"
-  }
+    "colortape": "^0.1.2",
+    "faucet": "0.0.1",
+    "ramda": "^0.24.1",
+    "request": "^2.81.0",
+    "tape": "^4.8.0"
+  },
+  "devDependencies": {}
 }
