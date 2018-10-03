@@ -1,0 +1,16 @@
+{
+  "name": "rebelle",
+  "description": "Rebelle Gulp Asset Pipeline",
+  "engines": {
+    "node": "0.10.36",
+    "npm": "2.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/styleremains/rebelle-k8s.git"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "request": "^2.81.0"
+  }
+}
